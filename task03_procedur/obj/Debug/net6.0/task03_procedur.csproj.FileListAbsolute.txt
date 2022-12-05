@@ -1,0 +1,15 @@
+C:\Users\HOME\Desktop\ДЗ\Seminar04\seminar004\task03_procedur\bin\Debug\net6.0\task03_procedur.exe
+C:\Users\HOME\Desktop\ДЗ\Seminar04\seminar004\task03_procedur\bin\Debug\net6.0\task03_procedur.deps.json
+C:\Users\HOME\Desktop\ДЗ\Seminar04\seminar004\task03_procedur\bin\Debug\net6.0\task03_procedur.runtimeconfig.json
+C:\Users\HOME\Desktop\ДЗ\Seminar04\seminar004\task03_procedur\bin\Debug\net6.0\task03_procedur.dll
+C:\Users\HOME\Desktop\ДЗ\Seminar04\seminar004\task03_procedur\bin\Debug\net6.0\task03_procedur.pdb
+C:\Users\HOME\Desktop\ДЗ\Seminar04\seminar004\task03_procedur\obj\Debug\net6.0\task03_procedur.csproj.AssemblyReference.cache
+C:\Users\HOME\Desktop\ДЗ\Seminar04\seminar004\task03_procedur\obj\Debug\net6.0\task03_procedur.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HOME\Desktop\ДЗ\Seminar04\seminar004\task03_procedur\obj\Debug\net6.0\task03_procedur.AssemblyInfoInputs.cache
+C:\Users\HOME\Desktop\ДЗ\Seminar04\seminar004\task03_procedur\obj\Debug\net6.0\task03_procedur.AssemblyInfo.cs
+C:\Users\HOME\Desktop\ДЗ\Seminar04\seminar004\task03_procedur\obj\Debug\net6.0\task03_procedur.csproj.CoreCompileInputs.cache
+C:\Users\HOME\Desktop\ДЗ\Seminar04\seminar004\task03_procedur\obj\Debug\net6.0\task03_procedur.dll
+C:\Users\HOME\Desktop\ДЗ\Seminar04\seminar004\task03_procedur\obj\Debug\net6.0\refint\task03_procedur.dll
+C:\Users\HOME\Desktop\ДЗ\Seminar04\seminar004\task03_procedur\obj\Debug\net6.0\task03_procedur.pdb
+C:\Users\HOME\Desktop\ДЗ\Seminar04\seminar004\task03_procedur\obj\Debug\net6.0\task03_procedur.genruntimeconfig.cache
+C:\Users\HOME\Desktop\ДЗ\Seminar04\seminar004\task03_procedur\obj\Debug\net6.0\ref\task03_procedur.dll
