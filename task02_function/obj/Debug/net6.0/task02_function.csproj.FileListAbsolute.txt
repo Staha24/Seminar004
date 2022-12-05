@@ -1,0 +1,15 @@
+C:\Users\HOME\Desktop\ДЗ\Seminar04\seminar004\task02_function\obj\Debug\net6.0\task02_function.csproj.AssemblyReference.cache
+C:\Users\HOME\Desktop\ДЗ\Seminar04\seminar004\task02_function\obj\Debug\net6.0\task02_function.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HOME\Desktop\ДЗ\Seminar04\seminar004\task02_function\obj\Debug\net6.0\task02_function.AssemblyInfoInputs.cache
+C:\Users\HOME\Desktop\ДЗ\Seminar04\seminar004\task02_function\obj\Debug\net6.0\task02_function.AssemblyInfo.cs
+C:\Users\HOME\Desktop\ДЗ\Seminar04\seminar004\task02_function\obj\Debug\net6.0\task02_function.csproj.CoreCompileInputs.cache
+C:\Users\HOME\Desktop\ДЗ\Seminar04\seminar004\task02_function\bin\Debug\net6.0\task02_function.exe
+C:\Users\HOME\Desktop\ДЗ\Seminar04\seminar004\task02_function\bin\Debug\net6.0\task02_function.deps.json
+C:\Users\HOME\Desktop\ДЗ\Seminar04\seminar004\task02_function\bin\Debug\net6.0\task02_function.runtimeconfig.json
+C:\Users\HOME\Desktop\ДЗ\Seminar04\seminar004\task02_function\bin\Debug\net6.0\task02_function.dll
+C:\Users\HOME\Desktop\ДЗ\Seminar04\seminar004\task02_function\bin\Debug\net6.0\task02_function.pdb
+C:\Users\HOME\Desktop\ДЗ\Seminar04\seminar004\task02_function\obj\Debug\net6.0\task02_function.dll
+C:\Users\HOME\Desktop\ДЗ\Seminar04\seminar004\task02_function\obj\Debug\net6.0\refint\task02_function.dll
+C:\Users\HOME\Desktop\ДЗ\Seminar04\seminar004\task02_function\obj\Debug\net6.0\task02_function.pdb
+C:\Users\HOME\Desktop\ДЗ\Seminar04\seminar004\task02_function\obj\Debug\net6.0\task02_function.genruntimeconfig.cache
+C:\Users\HOME\Desktop\ДЗ\Seminar04\seminar004\task02_function\obj\Debug\net6.0\ref\task02_function.dll
