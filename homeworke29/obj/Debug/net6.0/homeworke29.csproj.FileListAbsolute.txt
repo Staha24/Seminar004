@@ -1,0 +1,15 @@
+C:\Users\HOME\Desktop\ДЗ\Seminar04\seminar004\homeworke29\bin\Debug\net6.0\homeworke29.exe
+C:\Users\HOME\Desktop\ДЗ\Seminar04\seminar004\homeworke29\bin\Debug\net6.0\homeworke29.deps.json
+C:\Users\HOME\Desktop\ДЗ\Seminar04\seminar004\homeworke29\bin\Debug\net6.0\homeworke29.runtimeconfig.json
+C:\Users\HOME\Desktop\ДЗ\Seminar04\seminar004\homeworke29\bin\Debug\net6.0\homeworke29.dll
+C:\Users\HOME\Desktop\ДЗ\Seminar04\seminar004\homeworke29\bin\Debug\net6.0\homeworke29.pdb
+C:\Users\HOME\Desktop\ДЗ\Seminar04\seminar004\homeworke29\obj\Debug\net6.0\homeworke29.csproj.AssemblyReference.cache
+C:\Users\HOME\Desktop\ДЗ\Seminar04\seminar004\homeworke29\obj\Debug\net6.0\homeworke29.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HOME\Desktop\ДЗ\Seminar04\seminar004\homeworke29\obj\Debug\net6.0\homeworke29.AssemblyInfoInputs.cache
+C:\Users\HOME\Desktop\ДЗ\Seminar04\seminar004\homeworke29\obj\Debug\net6.0\homeworke29.AssemblyInfo.cs
+C:\Users\HOME\Desktop\ДЗ\Seminar04\seminar004\homeworke29\obj\Debug\net6.0\homeworke29.csproj.CoreCompileInputs.cache
+C:\Users\HOME\Desktop\ДЗ\Seminar04\seminar004\homeworke29\obj\Debug\net6.0\homeworke29.dll
+C:\Users\HOME\Desktop\ДЗ\Seminar04\seminar004\homeworke29\obj\Debug\net6.0\refint\homeworke29.dll
+C:\Users\HOME\Desktop\ДЗ\Seminar04\seminar004\homeworke29\obj\Debug\net6.0\homeworke29.pdb
+C:\Users\HOME\Desktop\ДЗ\Seminar04\seminar004\homeworke29\obj\Debug\net6.0\homeworke29.genruntimeconfig.cache
+C:\Users\HOME\Desktop\ДЗ\Seminar04\seminar004\homeworke29\obj\Debug\net6.0\ref\homeworke29.dll
